@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A choak-peare for the Parliament. The peoples thanks to the Parliament. ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79531</idno>
+            <idno type="STC">Wing C3921</idno>
+            <idno type="STC">Thomason E453_3</idno>
+            <idno type="STC">ESTC R204918</idno>
+            <idno type="EEBO-CITATION">99864366</idno>
+            <idno type="PROQUEST">99864366</idno>
+            <idno type="VID">161981</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79531)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161981)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E453[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A choak-peare for the Parliament. The peoples thanks to the Parliament. ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at Colechester :</pubPlace>
+                  <date>in the year 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  England --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161981:1" rendition="simple:additions"/>
+            <p>A Choak-Peare FOR THE PARLIAMENT.</p>
+            <lg>
+               <head>The Peoples thanks to the Parliament.</head>
+               <l>We thank you <hi>thrice</hi> moſt bleſſed Parliament</l>
+               <l>For your twice three years happy government:</l>
+               <l>For we enjoy <hi>more</hi> than we did before,</l>
+               <l>(Though you have Robb'd us of our bloods and ſtore)</l>
+               <l>More miſeries, and plagues we have from you,</l>
+               <l>More Taxes than before we ever knew:</l>
+               <l>More Wars, more Oaths, jarres, diſſentions, ſtrifes,</l>
+               <l>Then we e're knew before in all our lives.</l>
+               <l>We thank you for them all; And thanks from us</l>
+               <l>For making of our King ſo glorious.</l>
+               <l>We thank you too for ſhedding of our bloods</l>
+               <l>We know you'l ſay, You did it for our goods.</l>
+               <l>'Twas for our <hi>goods</hi> indeed, you robb'd us all,</l>
+               <l>And for your goods we thus conclude your fall.</l>
+               <l>Thoſe curſed Traytors that would kill their King,</l>
+               <l>Unto a hanging we will quickly bring.</l>
+            </lg>
+            <p>Printed at Colecheſter, in the Year 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161981:2"/>
+            <pb n="3" facs="tcp:161981:2"/>
+            <head>A CHOAK-PEAR FOR THE PARLIAMENT</head>
+            <lg>
+               <l>The Parlimaent may now go fiddle,</l>
+               <l>For <hi>Nol</hi> and <hi>Pom's</hi> cut off by the middle.</l>
+            </lg>
+            <p>
+               <seg rend="decorInit">D</seg>ROP, Drop ye fruit of perdition, for now ye are ripe for vengeance: Saitmarſh I beleeve dyed a Prophet, for he ſaid God had forſaken your bloo<g ref="char:EOLhyphen"/>dy Army; and well obſerved, ye have thrive ac<g ref="char:EOLhyphen"/>cordingly: How many of your gods a horſe-back are gone of an Embaſſie to <hi>Pluto</hi> ſince the death of that holy man? Crom<g ref="char:EOLhyphen"/>well led the way as if his Noſe ſhould have lighted the reſt thorow the kingdom of Darkneſſe, many a hundred have fol<g ref="char:EOLhyphen"/>lowed after; Black Tom went about twelve thou and into Kent, and came out about eight thouſand, what the devil be<g ref="char:EOLhyphen"/>came of the reſt? King Cromwel went into Wales nine thouſand, and came out — —o, what become of them? King Gowty-legs eight thouſand before Colcheſter, beſides ſome re<g ref="char:EOLhyphen"/>giments of horſe and foot drawn off from other places; a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d (ſetting the Ill-dependants aſide that came to him ſince) not above ſive thouſand of his eight is left alive; King Tom (as I heard from a holy Siſter that newly came from the Leaguer) ſhot in the guts with a chain bullet, (pray God it be no worſe) by the brave one eyed gunner, which hath made many a
+<pb n="4" facs="tcp:161981:3"/>hundred of the Saints eate bullets and ſhite ſizgiggs, witneſſe Shambrook the fire-lock maker in Tower ſtreet. The very ſame man it ſeems hath taken upon him his cure, and hath performed it with much dexterity, by a Pill or two ſent to him by that truſty and fure meſſenger Mrs Sweet-lips, that ſel<g ref="char:EOLhyphen"/>dome miſcarries when ſhe goes of errands to the Saints; But Whalley that hump-back'd Leveller, took great pains to little purpoſe, and levelled a Culvering, and fired it himſelf at my Lord Gorings Gunner, and (as he thinks) hath killed him, if not, then he is alive: howſoever Whalley did his good will, and deſerves five hundred pounds out of Sir Charles Lucas his Eſtate for his good will, and to be made chief quack over the Independent Drakes, that the pretty Ducks of Reformati<g ref="char:EOLhyphen"/>on may not want treading, nor whole broods of ſincear duck<g ref="char:EOLhyphen"/>lings to increaſe and multiply the number of the Saints ſo pittifully powdered of late, by that one eyed Malig<g ref="char:EOLhyphen"/>nant.</p>
+            <lg>
+               <l>Whoſe clouded bullets, wrapt in ſmoak and fire,</l>
+               <l>Hath given the Rebels their juſt weed and hire.</l>
+            </lg>
+            <p>And now Weymor Caſtle hath larnt of her Counen Pem<g ref="char:EOLhyphen"/>brook-up Poyer, for the Round-beſiegers perceiving a Fleet of Ships conſiſting of about ſome Forty Sayle to ride upon the Downs, began to betake themſelves to their heeles, and run from it; but finding they were bound toward Callis, they furiouſly returned, and began to ſhoot like ſo many feirce Dragons: but they in the Caſtle, placing dry ſtraw and pitch<g ref="char:EOLhyphen"/>barrels and diſcharged ſome Grannadoes upon the Caſtle, they lighted therein, and made ſuch a flame and ſmother, that the Ronnd-heads began to ſtorm them, thinking the Caſtle had been a fire; the Garriſon and Souldiers skreeking out as if they were frightned; crying, Quarter, quarter, quarter; and ſtuffed a Suit of the Governors with ſtraw, and flung it o<g ref="char:EOLhyphen"/>ver the walls, and preſently ſet the Gates wide open; which the holy Saints perceiving, ran on them with open mouth
+<pb n="5" facs="tcp:161981:3"/>as if they would have eate both them and the Caſtle; but the Garriſon cunningly ordered themſelves very diſcreetly, re<g ref="char:EOLhyphen"/>ceived them with whole vollies of ſhot, and killed at leaſt fourſcore upon the place, and made the reſt of the Saints flie back with a vengeance; as if they had run for their lives, and bid the devil take the hindmoſt.</p>
+            <lg>
+               <l>As if their mothers had been light heeld wenches,</l>
+               <l>Theſe holy Children run, and left their trenches.</l>
+            </lg>
+            <p>Noble Poyer hath behaved himſelf with ſo much gallantry, Succeſſe edging his Sword ſo ſharp, that with its motion it ſtill gains the Victory; hath raiſed the Seige before Pem<g ref="char:EOLhyphen"/>brook, and hath ſent ſeverall Companies into Glamorgan<g ref="char:EOLhyphen"/>ſhire and other places, to requite them for their former fa<g ref="char:EOLhyphen"/>vours; thoſe that eſcaped, are meerly ſpirituall men, for they have no more fleſh then will juſt cover their bones, and no more cloaths then will juſt cover their fleſh, and thoſe cloaths they have are made of Independent ſlink-skins, otherwiſe called their own taun'd hides: They marched away as theev<g ref="char:EOLhyphen"/>iſhly as they could, and took no more then what ever they could lay their ſingers on: not one amongſt forty of them was able to bear his Arms, not onely for weakneſſe, but be<g ref="char:EOLhyphen"/>cauſe they had them not.</p>
+            <p>Severall parties are upon purſuit of them in Gloceſter-ſhire and Shrop-ſhire, and I make no doubt will quite ſpoyle their plundering: The women where ever they come are frightned with them, taking them to be Spirits.</p>
+            <p>Her Couzen Jenken-ap-Rice-ap-John have called over all her Pigg-worthies from her Couzen Glendower to Pruit: and have keep her creat Feaſt next Saint Taffies Day, and have Common-Prayer ſaid in her creat hall for all her Victories over the perſidious Enemy, the ROUND-HEAD.</p>
+            <pb n="6" facs="tcp:161981:4"/>
+            <p>Colcheſter is for a certain releived with all Proviſions; three Ships came in laden with Wheat, Rie, Powder, Bullet, and other Ammunition, ſo that they can hold out for two months, and longer if need be; The 5 of this inſtant Sir Charles Lucas iſſued out with a thouſand foot and three hundred horſe, and ſuddenly fell upon their guard at the Eaſt bridge, ſurprized them, killed and routed moſt of them, very few of them e<g ref="char:EOLhyphen"/>ſcaping, who run away to their main guard; they took three pieces of Ordnance, three hundred armes, and other good booty, and returned into the town without any loſſe, onely ſome two or three of Sir Charles his men were ſlightly woun<g ref="char:EOLhyphen"/>ded, which made the Saints diſtaſt the bullets, who preſently cryed out, Poyſon, poyſon; and ſaid by inſtinct of the Spirit, they knew that the bullets were rowled in ſand, and the gun<g ref="char:EOLhyphen"/>ner was a devil, ſent from the whore of Babylon to torment them before their time; and ſo they betook themſelves to the ditches, to murder their tormenting backbiters, which victory they atchieved with the crack of a nayle, the Spaniſh pikemen doing excellent ſervice, and the fire men by traynes of gun<g ref="char:EOLhyphen"/>powder blew up many a thouſands of their enemies, ſo that they had an abſolute victory, deſerving a day of Thankſgiving at the leaſt, throughout the City and all the ſeparate Congre<g ref="char:EOLhyphen"/>gations in England, who are now muſtring with might and main all the forces they can both of horſe and foot, and ſwear by yea and nay, That before they have done; they will not leave a Cavaleer ſo much as a rag to cover his nakedneſſe; but if they ſhould be as good as their words, we ſhall have more Siſters come to our Churches than to Conventicles; for I beleeve there are not more letcherous in fatiable cloſe whores in the chriſtian world than the Shee Ottors of the Separation; but it is in Zeal, and for propogation of the Righteous, and ſo the more excuſable.</p>
+            <p>And now let me give you of the City a Caveat or two con<g ref="char:EOLhyphen"/>cerning the deterring of the Independents from Liſting of horſe and foot: Pray what Presbyter is there amongſt you ſo dull and ſtupid that doth not know, That the Riſe of the Indepen<g ref="char:EOLhyphen"/>dent muſt be the fall of your ſelves; therefore it behoves all
+<pb n="7" facs="tcp:161981:4"/>that hate Schiſme, and Blaſphemy, to uſe all poſſible meanes to ſuppreſſe all publick and private Liſting of horſe and foot, whether under Skippon or any elſe whatſoever; and thoſe already Liſted to disband with all poſſible ſpeed; who are raiſed moſt by Independents and other ill-affected perſons, more to over-awe and abuſe the City, then to protect it.</p>
+            <p>Next let us conſider how active thoſe Independants are in gathering hands, and promoting Petitions, and uſing all de<g ref="char:EOLhyphen"/>ſtructive wayes to hinder a Treaty with the King, doing their utmoſt (if they could by any means bring their plots to per<g ref="char:EOLhyphen"/>fection) to murder his Majeſty, and cut of his Poſterity, de<g ref="char:EOLhyphen"/>ſtroy Monarchy, and ſet up Anarchy, and bring this languiſh<g ref="char:EOLhyphen"/>ing Kingdom to utter confuſion: for if they ſhould effect their curſed deſigns (as God forbid) they would never be at quiet, but ſtill warring and ſtriving who ſhould be the greateſt amongſt them, and who ſhould have the largeſt portions, for the Saints are as covetous as the devil, and will have all or none.</p>
+            <p>How much good would it bring to the Kingdom, if all per<g ref="char:EOLhyphen"/>ſons would endeavour a Ceſſation of Armes in all parts of the Kingdom untill ſuch time the Treaty be ended, and after<g ref="char:EOLhyphen"/>wards a totall Disbanding of all Armies whatſoever.</p>
+            <lg>
+               <l>So long as Ravening Souldiers on us Prey,</l>
+               <l>We muſt look for Peace the clean contrary way.</l>
+            </lg>
+            <p>There is a report that four thouſand men are landed within ſeven miles of Colecheſter, I cannot beleeve it; but yet it may be truth; for the Prince of Wales is at Sea with ſix thouſand foot Souldiers, and yet is as yet uncertain where he intends to Land, ſome ſay North wards, others doth beleeve he will land Eaſtward.</p>
+            <lg>
+               <l>Whether on the Eaſtern or the Northern ſhore,</l>
+               <l>He quickly will have twenty thouſand more.</l>
+            </lg>
+            <pb n="8" facs="tcp:161981:5"/>
+            <p>Harry Martin is ſo pocky hot this weather, that all his hair comes off of his head, and his Coach ſarves for no other uſe but to carry his brace of damnations to the Style-yard, to add feuel to his luſt, and he like a Parliament leacher, (for the eaſe of his bones) ambles after in a Sedan, and in this ſtate he goes to the Lower bawdy Houſe in the forenoone, and to the up<g ref="char:EOLhyphen"/>per houſe to bath his luſt in the afternoon, and at night to his adulterate bed of foul incontinency.</p>
+            <p>A Committee choſen by both Houſes to conſider with a Committee of the Common-Councel of the City (on purpoſe to prolong time till they have butchered more of his Majeſties loyall Subjects) to juggle with the people, and make them beleeve they intend a Perſonal Treaty with his Majeſtie on purpoſe to ſtave them off, whilſt they have hatched their Cockatrice egges in the Army, and then, No more addreſſes, No more Meſſages: They are weary it ſeems of ſitting at weſt<g ref="char:EOLhyphen"/>minſter, and now would adjourn into the Cittie upon condi<g ref="char:EOLhyphen"/>tion the City will ſecure them: I hope my Couzens the Cuc<g ref="char:EOLhyphen"/>kolds will have the wit to ſecure them, and make them anſwer to the Law too. But now I think on it, the Round heads are as guilty as any of the jugglers, knaves, fools and mad-men of Weſtminſter, and will agree to any thing they propound, be it never ſo contrary to reaſon or ſenſe: But Harry Veine, Ven, and their brethren would have my Couzens make a Para<g ref="char:EOLhyphen"/>phraſe or Expoſition upon certain words and phraſes that the Saints underſtood not before, as where it is ſaid, That they would defend His Majeſties Royall Perſon, and the Parliament during the Treaty, according to their Covenant.</p>
+            <p>But hence riſe the offence, The City would defend his Ma<g ref="char:EOLhyphen"/>jeſties Perſon before the Parliament, or would defend the King and not the Parliament, or defend the King after the Treaty, if they ſhould not agree; But the City muſt engage forſooth to deliver up the Perſon of the King to them, if they ſhall not agree; and then to Priſon again, to a remore ſecret place, that Rolf may do his office.</p>
+            <lg>
+               <l>Elſe at the laſt we might have hope to ſee,</l>
+               <l>Our Yoakes pull'd off, and our good King ſet free.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
